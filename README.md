@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
 - 📫 Contact me at **joshishivansh28012001@gmail.com**
-- 📱Whatsapp me at **91-6395242871**
+- 📱Whatsapp me on **91-6395242871**
 - 🔗LinkedIn **https://www.linkedin.com/in/shivansh-joshi-b05044199/**
 <br/>
 
