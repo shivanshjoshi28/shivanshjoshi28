@@ -7,7 +7,6 @@
 - 🔭 I’m currently working at `Wingify` as a `Software Engineer Intern`
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
-- 💼 VIew my [Portfolio](https://nationxbharat.pythonanywhere.com/blog/shivansh/).
 - 📫 Contact me at **joshishivansh28012001@gmail.com**
 - 📱Whatsapp me at **91-6395242871**
 - 🔗LinkedIn **https://www.linkedin.com/in/shivansh-joshi-b05044199/**
