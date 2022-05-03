@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
 - 📫 Contact me at **joshishivansh28012001@gmail.com**
+- ✉️ Contact me at **shivanshjoshi_19021333.cse@geu.ac.in**
 - 📱Whatsapp me on **91-6395242871**
 - 🔗LinkedIn **https://www.linkedin.com/in/shivansh-joshi-b05044199/**
 <br/>
