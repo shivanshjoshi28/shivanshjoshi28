@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JAVA" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
